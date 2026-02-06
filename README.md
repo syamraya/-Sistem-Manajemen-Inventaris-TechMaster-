@@ -9,7 +9,7 @@ Proyek ini dibuat untuk memenuhi **Tugas Proyek Integrasi OOP (Advanced)** denga
 
 > Screenshot berikut menampilkan hasil eksekusi program (setup data & transaksi).
 
-![Screenshot Output Program](screenshot.png)
+![Screenshot Output Program](TechMasterInventorySystem/screenshot.png)
 
 ---
 
